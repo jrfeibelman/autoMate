@@ -27,6 +27,7 @@ diffusers
 spaCy
 flair
 jupyter
+python-dotenv
 # nemo-toolkit
 # bertopic
 # asteroid
