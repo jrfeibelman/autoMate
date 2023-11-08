@@ -1,0 +1,31 @@
+colorama
+hypothesis
+mypy
+numba
+numpy
+pytest
+pytest-env
+pytest-runner
+typing_extensions
+embeddings
+Cython
+plotly
+datasets
+networkx
+pydot
+streamlit
+streamlit-ace
+torch
+watchdog
+openai
+langchain
+opencv-python
+huggingface_hub
+evaluate
+seqeval
+diffusers
+spaCy
+flair
+# nemo-toolkit
+# bertopic
+# asteroid

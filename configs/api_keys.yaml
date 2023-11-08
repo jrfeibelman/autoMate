@@ -1,0 +1,12 @@
+apikeys:
+  openai:
+    key:
+
+  github:
+    key:
+
+  aws:
+    key:
+
+  azure:
+    keys:
