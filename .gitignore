@@ -1,5 +1,6 @@
-# API Keys
-configs/api_keys.yaml
+# Local files to ignore
+
+# API keys
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
