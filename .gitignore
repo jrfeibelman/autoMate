@@ -1,4 +1,5 @@
 # Local files to ignore
+load_environment.env
 
 # API keys
 
