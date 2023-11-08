@@ -24,10 +24,10 @@ This library aims to develop AI tools to enhance its user's productivity and use
 **🧐 Evaluation**
 
 ## 🔧Setup 
-`pip install --upgrade pip` 
-`pip install -r requirements.txt` 
-`pip install -e .` 
-`python create_load_environment.py` 
-Add your API keys to load_environment.env 
-`source load_environment.env` 
-You're ready to start using autoMate! 
+`pip install --upgrade pip`  
+`pip install -r requirements.txt`  
+`pip install -e .`  
+`python create_load_environment.py`  
+Add your API keys to load_environment.env  
+`source load_environment.env`  
+You're ready to start using autoMate!  
