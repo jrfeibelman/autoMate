@@ -26,6 +26,7 @@ seqeval
 diffusers
 spaCy
 flair
+jupyter
 # nemo-toolkit
 # bertopic
 # asteroid
