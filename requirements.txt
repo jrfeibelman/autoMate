@@ -1,33 +1,54 @@
-colorama
-hypothesis
+# RUN:
+# CT_METAL=1 pip install ctransformers --no-binary ctransformers
+
+# Core packages
+jupyter
+python-dotenv
 mypy
 numba
 numpy
+typing_extensions
+Cython
+plotly
+
+# Test packages
+hypothesis
 pytest
 pytest-env
 pytest-runner
-typing_extensions
+
+# ML packages
 embeddings
-Cython
-plotly
 datasets
+torch
+langchain
+opencv-python
+huggingface_hub
+diffusers
+openai
+tensorflow-macos
+tensorflow-metal
+
+# Uncategorized
+colorama
 networkx
 pydot
 streamlit
 streamlit-ace
-torch
 watchdog
-openai
-langchain
-opencv-python
-huggingface_hub
 evaluate
 seqeval
-diffusers
 spaCy
 flair
-jupyter
-python-dotenv
+einops
+
+# Speech recognition
+SpeechRecognition
+git+https://github.com/openai/whisper.git
+pyaudio
+
+# Other
 # nemo-toolkit
 # bertopic
 # asteroid
+

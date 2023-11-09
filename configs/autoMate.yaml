@@ -1,0 +1,2 @@
+autoMate:
+  SpeechToText: !include ${CONFIG}/audio_transcription.yaml

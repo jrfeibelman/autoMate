@@ -21,8 +21,6 @@ This library aims to develop AI tools to enhance its user's productivity and use
 
 **🧠 Memory**
 
-**🧐 Evaluation**
-
 ## 🔧Setup 
 `pip install --upgrade pip`  
 `pip install -r requirements.txt`  

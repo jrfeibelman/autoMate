@@ -1,0 +1,11 @@
+SpeechToText:
+  # Which model to use [tiny, base, small, medium, large]
+  Model: medium
+  # Energy level for mic to detect
+  EnergyThreshold: 1000
+  # How real time recording is (secs)
+  RecordTimeout: 2.0
+  # How much empty space between recordings before new line (secs)
+  PhraseTimeout: 4.0
+  # File to log transcript to
+  AudioTranscript: 'logs/audio/transcript.txt'
